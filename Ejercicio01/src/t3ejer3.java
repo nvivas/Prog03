@@ -1,3 +1,6 @@
+/*
+ * Programa para calcular los divisores del número n introducido por teclado
+ */
 import java.util.Scanner;
 
 public class t3ejer3 {

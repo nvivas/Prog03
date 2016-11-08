@@ -1,3 +1,6 @@
+/*
+ * Calcular los números primos hasta el número n introducido por teclado
+ */
 import java.util.Scanner;
 
 public class t3ejer11 {

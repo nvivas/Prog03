@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class t3ejer7 {
 
 	public static void main(String[] args) {
-
+		
 		Scanner teclado = new Scanner(System.in);
 		int n,max,min,suma=0,i=0;
 		float media=0f;
@@ -15,7 +15,7 @@ public class t3ejer7 {
 		n=teclado.nextInt();
 		max=n;
 		min=n;
-
+		
 		while (n != 0){
 			suma = suma +n;
 			i++;
@@ -23,7 +23,7 @@ public class t3ejer7 {
 				max = n;
 			if(n < min)
 				min = n;
-
+			
 			System.out.print("Introduce un número: ");
 			n=teclado.nextInt();
 		}//fin while

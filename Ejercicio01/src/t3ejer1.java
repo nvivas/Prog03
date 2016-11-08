@@ -1,3 +1,6 @@
+/*
+ * Calcula la suma de dos numeros introducidos por teclado sin incluirse ellos mismos
+ */
 import java.util.Scanner;
 
 public class t3ejer1 {

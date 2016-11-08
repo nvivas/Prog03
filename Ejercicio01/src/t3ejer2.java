@@ -1,3 +1,6 @@
+/*
+ * Calcula la tabla de multiplicar (del 1 al 10) del número n introducido por teclado
+ */
 import java.util.Scanner;
 
 public class t3ejer2 {

@@ -1,3 +1,6 @@
+/*
+ * Calcular el primo por exceso del número n introducido por teclado
+ */
 import java.util.Scanner;
 
 public class t3ejer10 {
