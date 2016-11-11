@@ -21,7 +21,6 @@ public class t3ejer13 {
 
 		elevado = (float)Math.pow(b, 2);
 		raiz = (float)Math.sqrt(elevado - 4*a*c);
-		
 		x = (-b + raiz)/(2*a);
 		y = (-b - raiz)/(2*a);
 		
